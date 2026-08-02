@@ -1,0 +1,35 @@
+<svg viewBox="0 0 490 220" width="490" height="220"
+     xmlns="http://www.w3.org/2000/svg"
+     font-family="Consolas, 'SF Mono', 'Courier New', monospace">
+  <style>
+    .bg { fill: #0d1117; }
+    .titlebar { fill: #161b22; }
+    .title { fill: #8b949e; font-size: 12px; }
+    .key { fill: #39d353; font-size: 12px; font-weight: bold; }
+    .val { fill: #c9d1d9; font-size: 12px; }
+    
+      .row { opacity: 0; transform: translateX(-8px); animation: fadeSlide 0.45s ease-out forwards; }
+      @keyframes fadeSlide { to { opacity: 1; transform: translateX(0); } }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    
+  </style>
+
+  <rect class="bg" x="0" y="0" width="490" height="220" rx="8"/>
+  <rect class="bg" x="0.5" y="0.5" width="489" height="219" rx="8"
+        fill="none" stroke="#30363d"/>
+  <rect class="titlebar" x="0" y="0" width="490" height="40" rx="8"/>
+  <rect class="titlebar" x="0" y="32" width="490" height="8"/>
+  <circle cx="20" cy="20.0" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="20.0" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="20.0" r="5" fill="#27c93f"/>
+  <text x="245.0" y="24.0" text-anchor="middle" class="title">keshav@github</text>
+
+  <g class="row" style="animation-delay:0.15s"><text x="20" y="62" class="key">Now:</text><text x="112" y="62" class="val">Final-year B.E. (ISE), job hunting</text></g>
+<g class="row" style="animation-delay:0.27s"><text x="20" y="88" class="key">Prev:</text><text x="112" y="88" class="val">VectorShift technical assessment</text></g>
+<g class="row" style="animation-delay:0.39s"><text x="20" y="114" class="key">Stack:</text><text x="112" y="114" class="val">React Native/Expo, Node.js, FastAPI</text></g>
+<g class="row" style="animation-delay:0.51s"><text x="20" y="140" class="key">Highlight:</text><text x="112" y="140" class="val">LetsTalk - live on Play Store (testing)</text></g>
+<g class="row" style="animation-delay:0.63s"><text x="20" y="166" class="key">Highlight:</text><text x="112" y="166" class="val">HealthGuard AI</text></g>
+<g class="row" style="animation-delay:0.75s"><text x="20" y="192" class="key">Highlight:</text><text x="112" y="192" class="val">Offline AI Chatbot (Electron + Ollama)</text></g>
+  <text x="20" y="210" class="val"><tspan class="cursor">_</tspan></text>
+</svg>
