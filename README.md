@@ -1,4 +1,15 @@
+<div align="center">
 
+# 👋 Hi, I'm Keshav Kandoi
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavkandoi/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandoikeshav2004)
+
+[![](https://visitcount.itsvg.in/api?id=gurkirat309&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 <br>
 
 ## 🧑‍💻 About Me
