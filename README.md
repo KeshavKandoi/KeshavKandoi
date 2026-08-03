@@ -1,11 +1,9 @@
 <div align="center">
 
-<h3><code>keshav@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
 <br><br>
 
-<h3><code>keshav@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./ascii-portrait.svg" width="370" /></td>
@@ -22,17 +20,6 @@
 I'm a final-year B.E. (Information Science & Engineering) student at **JSS Academy of Technical Education**, Bengaluru, graduating 2027. I build full-stack products end to end — from mobile apps and backend APIs to GenAI/RAG pipelines — and I'm currently job hunting for internship/fresher roles.
 
 Recently shipped **LetsTalk** to closed testing on the Play Store, built an offline AI chatbot that bundles a local LLM into a desktop app, and I'm deep in DSA + system design prep alongside a structured GenAI/ML study track.
-
-## 📫 Contact
-
-<p>
-<img src="https://img.shields.io/badge/📍-Bengaluru,_India-1a1a2e?style=for-the-badge" />
-<a href="mailto:kandoikeshav2004@gmail.com"><img src="https://img.shields.io/badge/Email-kandoikeshav2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-<p>
-<a href="https://www.linkedin.com/in/keshavkandoi"><img src="https://img.shields.io/badge/LinkedIn-keshavkandoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Kandoi004"><img src="https://img.shields.io/badge/X-@Kandoi004-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
 
 ## 🛠️ Tech Stack
 
