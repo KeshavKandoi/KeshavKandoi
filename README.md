@@ -14,9 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a final-year B.E. (Information Science & Engineering) student at **JSS Academy of Technical Education**, Bengaluru, graduating 2027. I build full-stack products end to end — from mobile apps and backend APIs to GenAI/RAG pipelines — and I'm currently job hunting for internship/fresher roles.
 
-Recently shipped **LetsTalk** to closed testing on the Play Store, built an offline AI chatbot that bundles a local LLM into a desktop app, and I'm deep in DSA + system design prep alongside a structured GenAI/ML study track.
+I'm a Full-Stack Developer and AI enthusiast passionate about building products that solve real-world problems. My interests lie at the intersection of web development, mobile applications, Machine Learning, and Generative AI.
+
+I enjoy building end-to-end applications—from designing intuitive user interfaces and scalable backend APIs to integrating LLMs, RAG pipelines, and AI-powered features. Currently, I'm deepening my knowledge of system design, machine learning, and advanced AI while continuously improving my problem-solving skills through Data Structures & Algorithms.
+
 
 ## 🛠️ Tech Stack
 
