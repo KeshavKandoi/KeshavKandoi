@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="./info-card.svg" width="490" />
-
-</div>
 
 <br>
 
