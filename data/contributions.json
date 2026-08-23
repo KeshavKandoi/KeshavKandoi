@@ -1,42 +1,7 @@
 {
   "username": "KeshavKandoi",
-  "generated_at": "2026-08-22T06:57:21.416738Z",
+  "generated_at": "2026-08-23T06:58:57.701124Z",
   "days": [
-    {
-      "date": "2025-08-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-22",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-23",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-08-24",
       "level": 0,
@@ -1784,7 +1749,7 @@
     },
     {
       "date": "2026-08-08",
-      "level": 4,
+      "level": 3,
       "count": 70
     },
     {
@@ -1855,17 +1820,22 @@
     {
       "date": "2026-08-22",
       "level": 4,
-      "count": 88
+      "count": 95
+    },
+    {
+      "date": "2026-08-23",
+      "level": 1,
+      "count": 18
     }
   ],
   "stats": {
-    "total_last_year": 1765,
-    "current_streak": 51,
+    "total_last_year": 1790,
+    "current_streak": 52,
     "longest_streak": 57,
     "best_day": {
-      "date": "2026-08-02",
+      "date": "2026-08-22",
       "level": 4,
-      "count": 89
+      "count": 95
     },
     "monthly": {
       "2025-08": 0,
@@ -1880,7 +1850,7 @@
       "2026-05": 126,
       "2026-06": 327,
       "2026-07": 186,
-      "2026-08": 878
+      "2026-08": 903
     }
   }
 }
