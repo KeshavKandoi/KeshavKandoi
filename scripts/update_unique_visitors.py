@@ -7,7 +7,7 @@ from urllib.request import Request, urlopen
 
 OWNER = "KeshavKandoi"
 REPO = "KeshavKandoi"
-BADGE = Path(__file__).resolve().parents[1] / "traffic-unique.svg"
+BADGE = Path(__file__).resolve().parents[1] / "visitor-count.svg"
 
 
 def make_badge(count: int) -> str:
