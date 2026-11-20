@@ -22,7 +22,7 @@ def make_badge(count: int) -> str:
   <rect x="0.5" y="0.5" width="{width - 1}" height="27" rx="4.5" fill="none" stroke="#39424e"/>
   <rect width="3" height="28" rx="1.5" fill="#58a6ff"/>
   <g font-family="Arial,sans-serif" font-weight="600" text-anchor="middle">
-    <text x="{(label_width + 3) / 2:.1f}" y="18" fill="#e6edf3" font-size="11">UNIQUE REPO VISITORS · 14D</text>
+    <text x="{(label_width + 3) / 2:.1f}" y="18" fill="#e6edf3" font-size="11">VISITORS · 14D</text>
     <text x="{label_width + value_width / 2:.1f}" y="18" fill="#79c0ff" font-size="12">{number}</text>
   </g>
 </svg>
