@@ -34,12 +34,12 @@ jobs:
       - name: Commit badge only when the count changes
         if: steps.generate.outputs.skip != 'true'
         run: |
-          if git diff --quiet -- traffic-unique.svg; then
+          if git diff --quiet -- visitor-count.svg; then
             echo "Badge unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add traffic-unique.svg
+          git add visitor-count.svg
           git commit -m "chore: update official repository visitor metric [skip ci]"
           git push
