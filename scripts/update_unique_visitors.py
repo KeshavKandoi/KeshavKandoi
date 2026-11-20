@@ -12,20 +12,21 @@ BADGE = Path(__file__).resolve().parents[1] / "traffic-unique.svg"
 
 def make_badge(count: int) -> str:
     number = str(count)
-    value_width = max(48, 25 + len(number) * 9)
-    width = 188 + value_width
+    label_width = 218
+    value_width = max(46, 24 + len(number) * 10)
+    width = label_width + value_width
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="28" viewBox="0 0 {width} 28" role="img" aria-label="Unique repository visitors in the last 14 days: {number}">
-  <title>Official GitHub unique visitors to this repository in the previous 14 days: {number}. Not overall GitHub profile views.</title>
+  <title>Unique visitors to this GitHub repository in the last 14 days: {number}. Not overall GitHub profile views.</title>
   <rect width="{width}" height="28" rx="5" fill="#24292e"/>
-  <rect x="188" y="0" width="{value_width}" height="28" fill="#161b22"/>
-  <rect x="0.5" y="0.5" width="{width - 1}" height="27" rx="4.5" fill="none" stroke="#444c56"/>
-  <g font-family="Arial,sans-serif" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle">
-    <text x="94" y="18">REPO UNIQUES (14D)</text>
-    <text x="{188 + value_width / 2:.1f}" y="18">{number}</text>
+  <rect x="{label_width}" y="0" width="{value_width}" height="28" fill="#101923"/>
+  <rect x="0.5" y="0.5" width="{width - 1}" height="27" rx="4.5" fill="none" stroke="#39424e"/>
+  <rect width="3" height="28" rx="1.5" fill="#58a6ff"/>
+  <g font-family="Arial,sans-serif" font-weight="600" text-anchor="middle">
+    <text x="{(label_width + 3) / 2:.1f}" y="18" fill="#e6edf3" font-size="11">UNIQUE REPO VISITORS · 14D</text>
+    <text x="{label_width + value_width / 2:.1f}" y="18" fill="#79c0ff" font-size="12">{number}</text>
   </g>
 </svg>
 '''
-
 
 def main():
     token = os.environ.get("GH_TRAFFIC_TOKEN", "").strip()
