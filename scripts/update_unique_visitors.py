@@ -7,26 +7,28 @@ from urllib.request import Request, urlopen
 
 OWNER = "KeshavKandoi"
 REPO = "KeshavKandoi"
-BADGE = Path(__file__).resolve().parents[1] / "visitor-count.svg"
+BADGE = Path(__file__).resolve().parents[1] / "visitors-mini.svg"
 
 
 def make_badge(count: int) -> str:
     number = str(count)
-    label_width = 218
-    value_width = max(46, 24 + len(number) * 10)
+    label_width = 96
+    value_width = max(28, 18 + len(number) * 8)
     width = label_width + value_width
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="28" viewBox="0 0 {width} 28" role="img" aria-label="Unique repository visitors in the last 14 days: {number}">
+    height = 22
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Visitors: {number}">
   <title>Unique visitors to this GitHub repository in the last 14 days: {number}. Not overall GitHub profile views.</title>
-  <rect width="{width}" height="28" rx="5" fill="#24292e"/>
-  <rect x="{label_width}" y="0" width="{value_width}" height="28" fill="#101923"/>
-  <rect x="0.5" y="0.5" width="{width - 1}" height="27" rx="4.5" fill="none" stroke="#39424e"/>
-  <rect width="3" height="28" rx="1.5" fill="#58a6ff"/>
+  <rect width="{width}" height="{height}" rx="4" fill="#24292e"/>
+  <rect x="{label_width}" y="0" width="{value_width}" height="{height}" fill="#101923"/>
+  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="3.5" fill="none" stroke="#39424e"/>
+  <rect width="2.5" height="{height}" rx="1.25" fill="#58a6ff"/>
   <g font-family="Arial,sans-serif" font-weight="600" text-anchor="middle">
-    <text x="{(label_width + 3) / 2:.1f}" y="18" fill="#e6edf3" font-size="11">VISITORS</text>
-    <text x="{label_width + value_width / 2:.1f}" y="18" fill="#79c0ff" font-size="12">{number}</text>
+    <text x="{(label_width + 2.5) / 2:.1f}" y="15" fill="#e6edf3" font-size="9.5">VISITORS</text>
+    <text x="{label_width + value_width / 2:.1f}" y="15" fill="#79c0ff" font-size="10.5">{number}</text>
   </g>
 </svg>
 '''
+
 
 def main():
     token = os.environ.get("GH_TRAFFIC_TOKEN", "").strip()
