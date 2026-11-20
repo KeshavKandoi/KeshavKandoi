@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&label=PROFILE+VIEWS&color=24292e&style=for-the-badge" alt="Profile Views" />
+<img src="./traffic-unique.svg" alt="Unique visitors to this repository in the last 14 days" />
 
 <br>
 
