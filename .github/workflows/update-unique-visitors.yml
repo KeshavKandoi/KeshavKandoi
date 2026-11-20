@@ -1,0 +1,42 @@
+name: Update unique repository visitors
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: unique-repository-visitors
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate badge from GitHub's official traffic metric
+        env:
+          GH_TRAFFIC_TOKEN: ${{ secrets.GH_TRAFFIC_TOKEN }}
+        run: |
+          if [ -z "$GH_TRAFFIC_TOKEN" ]; then
+            echo "::error::Missing GH_TRAFFIC_TOKEN. Add the secret under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          python scripts/update_unique_visitors.py
+      - name: Commit badge only when the count changes
+        run: |
+          if git diff --quiet -- traffic-unique.svg; then
+            echo "Badge unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add traffic-unique.svg
+          git commit -m "chore: update official repository visitor metric [skip ci]"
+          git push
