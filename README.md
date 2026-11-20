@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/KeshavKandoi/KeshavKandoi/graphs/traffic" title="Unique visitors to this repository over the last 14 days">
-  <img src="./traffic-unique.svg" alt="Unique repository visitors, rolling 14-day count" />
+  <img src="./visitor-count.svg" alt="Unique repository visitors, rolling 14-day count" />
 </a>
 
 <h1>👋 Hi, I'm Keshav Kandoi</h1>
