@@ -3,276 +3,217 @@
 
 # 👋 Hi, I'm Keshav Kandoi
 
-### AI Engineering · Backend Systems · Full-Stack Development
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+AI+Agents+%26+LLM+Systems" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Engineering+LLMs+%26+AI+Agents;Building+Scalable+Backend+Infrastructure;Turning+Research+into+Working+Software" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavkandoi/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandoikeshav2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keshavkandoi.me)
 
-<p>
-  <a href="https://keshavkandoi.me">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/keshavkandoi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kandoikeshav2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
----
+<br>
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a software engineer focused on **AI systems, backend infrastructure, and full-stack product development**.
+I'm a Software Developer and AI enthusiast passionate about building intelligent systems and scalable applications.
 
-My work spans persistent memory for AI agents, retrieval-augmented generation, workflow orchestration, security automation, and model architectures implemented from first principles.
+My work focuses on **AI Agents, LLMs, RAG, Machine Learning, Backend Engineering, and Full-Stack Development**. I enjoy building end-to-end solutions, from designing APIs and distributed systems to implementing AI models, memory infrastructure, and automation workflows.
 
-I enjoy engineering beyond the prototype: designing APIs, building asynchronous processing pipelines, evaluating retrieval quality, investigating failure modes, and connecting intelligent systems to real applications.
+Currently, I'm exploring advanced AI architectures, system design, and efficient backend infrastructure while strengthening my problem-solving skills through Data Structures & Algorithms.
 
-My current areas of focus include:
+## 🛠️ Tech Stack
 
-- **AI Agents & LLM Systems:** RAG, agentic workflows, memory architectures, tool integration, and MCP.
-- **Backend Engineering:** FastAPI, distributed task processing, authentication, and reliable API design.
-- **Search & Data Infrastructure:** Vector search, BM25, hybrid retrieval, reranking, relational and graph databases.
-- **Model Engineering:** Transformer architectures, attention mechanisms, PyTorch training, and inference.
-- **Software Security:** Static analysis, vulnerability detection, controlled remediation, and verification.
-
-## Technical Skills
-
-### Languages
-
+**Languages**
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### AI, Machine Learning & LLMs
-
+**AI / Machine Learning / LLMs**
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-6941C6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-6941C6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-252525?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Embeddings-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Search-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hybrid_Retrieval-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Attention_Mechanisms-EE4C2C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Beam_Search-EE4C2C?style=for-the-badge" />
 </p>
 
-**Core concepts:** Multi-Head Attention, Cross-Attention, Positional Encoding, Tokenization, Embeddings, Semantic Search, Hybrid Retrieval, RRF, Reranking, Prompt Engineering, Model Training, and Autoregressive Decoding.
-
-### Backend & Distributed Systems
-
+**Frontend**
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+**Backend & APIs**
+<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Webhooks-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APScheduler-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multer-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CORS-007ACC?style=for-the-badge" />
 </p>
 
-**Core concepts:** Asynchronous Processing, Background Workers, Task Queues, API Design, Webhooks, Scheduling, Retries, Deduplication, Authentication, and Authorization.
-
-### Databases, Search & Storage
-
+**Databases, Search & ORMs**
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-### Frontend & Mobile
-
+**Tools & Engineering**
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-### Engineering Tools & Practices
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AST_Analysis-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regex-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
 </p>
 
-**Additional experience:** AST Analysis, Regular Expressions, Static Security Rules, Automated Testing, GitHub API Integrations, and CI Workflows.
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Featured Engineering Projects
+### MeMorae
 
-### 01. MeMorae — Persistent Memory Infrastructure for AI Agents
+Persistent memory infrastructure for AI agents with hybrid retrieval, knowledge graphs, and asynchronous memory processing.
 
-**Long-term memory and hybrid retrieval for context-aware AI systems.**
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
-Designed a memory infrastructure that extracts, organizes, stores, and retrieves information across conversations, helping AI applications maintain useful context beyond individual sessions.
+</td>
+<td width="33%" valign="top">
 
-**Engineering highlights:**
+### [Transformer](https://github.com/KeshavKandoi/Transformer)
 
-- Structured extraction of episodic, factual, semantic, and graph memories.
-- Hybrid retrieval combining vector similarity search in Qdrant and BM25 keyword search in OpenSearch.
-- Reciprocal Rank Fusion (RRF) to consolidate search results.
-- PostgreSQL for source records, memory metadata, and lifecycle state.
-- Neo4j for relationship-oriented memory representations.
-- Asynchronous ingestion with Celery workers and Redis.
-- SHA-256-based deduplication and memory conflict handling.
-- Integration patterns for AI agents using MCP and LangGraph.
+Custom encoder-decoder Transformer in PyTorch with multi-head attention, training pipelines, beam search, and attention visualization.
 
-**Tech:** Python · FastAPI · PostgreSQL · Qdrant · OpenSearch · Neo4j · Redis · Celery · Gemini
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logoColor=black" />
 
-### 02. Transformer — Architecture Implemented from First Principles
+</td>
+<td width="33%" valign="top">
 
-[![Repository](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KeshavKandoi/Transformer)
+### [CodeSentinel](https://github.com/KeshavKandoi/CodeSentinel)
 
-**An end-to-end implementation of the original encoder–decoder Transformer architecture, following _Attention Is All You Need_.**
+MCP-powered security auditor with static vulnerability checks, controlled remediation, and independent verification.
 
-Built the model and its training and inference pipeline using PyTorch, rather than relying on a pretrained Transformer implementation.
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-MCP-222222?style=flat-square" />
+<img src="https://img.shields.io/badge/-Security-E34F26?style=flat-square" />
 
-**Engineering highlights:**
+</td>
+</tr>
 
-- Implemented scaled dot-product attention and multi-head attention.
-- Built encoder and decoder blocks with residual connections, normalization, and feed-forward networks.
-- Implemented masked self-attention, cross-attention, and sinusoidal positional encoding.
-- Developed tokenization, batching, teacher forcing, masked loss, and checkpoint handling.
-- Implemented greedy and beam-search decoding.
-- Built an interactive interface for inference and attention visualization.
-- Added reproducible evaluation using frozen checkpoints and held-out splits.
+<tr>
+<td width="33%" valign="top">
 
-**Tech:** Python · PyTorch · Transformers · Attention Mechanisms · Tokenization · Model Training
+### [WorkForge](https://github.com/KeshavKandoi/AI-AUTOMATION)
 
-### 03. CodeSentinel — MCP Security Auditing & Controlled Remediation
+AI workflow automation platform integrating GitHub, Gmail, Calendar, and Discord with intelligent task orchestration.
 
-[![Repository](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KeshavKandoi/CodeSentinel)
+<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
-**A local security auditing system exposed through the Model Context Protocol.**
+</td>
+<td width="33%" valign="top">
 
-Built to inspect source code, report supported security findings, investigate evidence, and support permission-controlled remediation with independent retesting.
+### LetsTalk
 
-**Engineering highlights:**
+Location-based social app for discovering nearby people, connecting through QR codes, and starting real-time conversations.
 
-- Implemented 25 Node.js security rules covering supported static findings.
-- Combined rule-based scanning with source inspection and security investigation.
-- Integrated MCP tooling with developer agents, including Claude Code.
-- Designed a controlled remediation workflow with explicit authorization.
-- Implemented dry-run support, file-integrity checks, and guarded writes.
-- Added retesting and security sweeps to distinguish proposed fixes from verified outcomes.
-- Supported hash-checked rollback for controlled recovery.
+<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 
-**Tech:** TypeScript · Node.js · MCP · Static Analysis · AST · Regex · Zod · Security Testing
+</td>
+<td width="33%" valign="top">
 
-### 04. WorkForge — AI Workflow Automation Platform
+### [Offline AI Chatbot](https://github.com/KeshavKandoi/OfflineChatBot)
 
-[![Repository](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KeshavKandoi/AI-AUTOMATION)
+Offline desktop chatbot using local LLMs through Ollama, integrated with Electron, React, and FastAPI.
 
-**AI-assisted workflow orchestration across developer tools and business applications.**
+<img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
-Built an automation platform connecting application events, scheduled operations, and AI-generated task recommendations with real integrations.
+</td>
+</tr>
 
-**Engineering highlights:**
+<tr>
+<td width="33%" valign="top">
 
-- Integrated GitHub, Gmail, Google Calendar, and Discord.
-- Used Gemini for contextual summaries, task suggestions, and analysis.
-- Used LangGraph for stateful workflow orchestration.
-- Built API integrations and webhook-triggered automations.
-- Implemented scheduled workflows and background operations.
-- Added human approval for supported sensitive actions.
-- Implemented organization-scoped integrations and encrypted OAuth token storage.
+### [HealthGuard AI](https://github.com/KeshavKandoi/HealthCare-Project-)
 
-**Tech:** Python · FastAPI · LangGraph · Gemini · React · Supabase · REST APIs · OAuth · Webhooks
+AI-assisted health monitoring project combining machine learning workflows with a practical user-facing application.
 
-### 05. Let's Talk — Location-Based Social Application
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-ML-6C3AC5?style=flat-square" />
 
-**A mobile application designed to help people initiate real-world conversations based on nearby availability.**
-
-- Built mobile flows for proximity-based discovery and social interaction.
-- Implemented account authentication, profile management, and connection workflows.
-- Developed real-time messaging and friend request functionality.
-- Added QR-based connections and presence-oriented interaction.
-- Prepared the application for closed testing through Google Play.
-
-**Tech:** React Native · Expo · Node.js · Supabase · Real-Time Messaging
-
-### 06. Offline AI Chatbot — Local LLM Desktop Application
-
-[![Repository](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KeshavKandoi/OfflineChatBot)
-
-**A desktop AI assistant designed for local inference without requiring a cloud-hosted LLM.**
-
-- Integrated locally served language models through Ollama.
-- Built a desktop application using Electron and React.
-- Connected the user interface to a FastAPI backend.
-- Designed the application around offline model execution.
-
-**Tech:** Electron · React · Python · FastAPI · Ollama · Local LLMs
-
-### Additional Work
-
-**HealthGuard AI** — An AI-assisted health monitoring prototype combining machine learning workflows with a user-facing interface.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" alt="GitHub Contribution Heatmap" width="100%" />
-
-</div>
-
----
-
-## Engineering Interests
-
-I'm particularly interested in the systems behind reliable AI applications:
-
-- Retrieval quality, memory consistency, and efficient search.
-- Stateful agent orchestration and secure tool execution.
-- Distributed processing, fault tolerance, and backend reliability.
-- Transformer internals, inference, and evaluation.
-- Security-conscious development and automated verification.
-
-I enjoy working on problems where **model behavior, software architecture, and real-world product requirements meet**.
+</td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### 🌐 Connect With Me
 
-I'm interested in **AI Engineering, LLM Engineering, Python Backend, and Software Engineering** opportunities.
-
-[Portfolio](https://keshavkandoi.me) · [LinkedIn](https://www.linkedin.com/in/keshavkandoi/) · [GitHub](https://github.com/KeshavKandoi) · [Email](mailto:kandoikeshav2004@gmail.com)
-
-<sub>Built through experimentation, iteration, and a lot of debugging.</sub>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keshavkandoi.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavkandoi/)
 
 </div>
