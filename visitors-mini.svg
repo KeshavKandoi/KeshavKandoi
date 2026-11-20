@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="22" viewBox="0 0 124 22" role="img" aria-label="Visitors: 1">
+  <title>Unique visitors to this GitHub repository in the last 14 days: 1. Not overall GitHub profile views.</title>
+  <rect width="124" height="22" rx="4" fill="#24292e"/>
+  <rect x="96" y="0" width="28" height="22" fill="#101923"/>
+  <rect x="0.5" y="0.5" width="123" height="21" rx="3.5" fill="none" stroke="#39424e"/>
+  <rect width="2.5" height="22" rx="1.25" fill="#58a6ff"/>
+  <g font-family="Arial,sans-serif" font-weight="600" text-anchor="middle">
+    <text x="49.3" y="15" fill="#e6edf3" font-size="9.5">VISITORS</text>
+    <text x="110.0" y="15" fill="#79c0ff" font-size="10.5">1</text>
+  </g>
+</svg>
