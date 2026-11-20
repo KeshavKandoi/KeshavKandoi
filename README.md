@@ -1,15 +1,16 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Keshav Kandoi
+
+<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+AI+Agents+%26+LLM+Systems" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavkandoi/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandoikeshav2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keshavkandoi.me)
-
-<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -52,8 +53,6 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Vector_Search-6C3AC5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hybrid_Retrieval-6C3AC5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-6C3AC5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Attention_Mechanisms-EE4C2C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Beam_Search-EE4C2C?style=for-the-badge" />
 </p>
 
 **Frontend**
@@ -81,9 +80,6 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/APScheduler-3776AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multer-FF6600?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CORS-007ACC?style=for-the-badge" />
 </p>
 
 **Databases, Search & ORMs**
@@ -95,9 +91,6 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-6C3AC5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
 **Tools & Engineering**
@@ -109,7 +102,6 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AST_Analysis-6C3AC5?style=for-the-badge" />
@@ -126,21 +118,12 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 
 ### MeMorae
 
-Persistent memory infrastructure for AI agents with hybrid retrieval, knowledge graphs, and asynchronous memory processing.
+Persistent memory infrastructure for AI agents with hybrid retrieval, memory extraction, and asynchronous processing.
 
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-</td>
-<td width="33%" valign="top">
-
-### [Transformer](https://github.com/KeshavKandoi/Transformer)
-
-Custom encoder-decoder Transformer in PyTorch with multi-head attention, training pipelines, beam search, and attention visualization.
-
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square" />
+<img src="https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square" />
 
 </td>
 <td width="33%" valign="top">
@@ -154,56 +137,17 @@ MCP-powered security auditor with static vulnerability checks, controlled remedi
 <img src="https://img.shields.io/badge/-Security-E34F26?style=flat-square" />
 
 </td>
-</tr>
-
-<tr>
 <td width="33%" valign="top">
 
 ### [WorkForge](https://github.com/KeshavKandoi/AI-AUTOMATION)
 
-AI workflow automation platform integrating GitHub, Gmail, Calendar, and Discord with intelligent task orchestration.
+AI workflow automation platform integrating GitHub, Gmail, Calendar, and Discord with intelligent orchestration.
 
 <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square" />
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
 </td>
-<td width="33%" valign="top">
-
-### LetsTalk
-
-Location-based social app for discovering nearby people, connecting through QR codes, and starting real-time conversations.
-
-<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-</td>
-<td width="33%" valign="top">
-
-### [Offline AI Chatbot](https://github.com/KeshavKandoi/OfflineChatBot)
-
-Offline desktop chatbot using local LLMs through Ollama, integrated with Electron, React, and FastAPI.
-
-<img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### [HealthGuard AI](https://github.com/KeshavKandoi/HealthCare-Project-)
-
-AI-assisted health monitoring project combining machine learning workflows with a practical user-facing application.
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-ML-6C3AC5?style=flat-square" />
-
-</td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
 </tr>
 </table>
 
