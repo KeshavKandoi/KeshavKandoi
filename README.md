@@ -1,12 +1,16 @@
 <div align="center">
 
-<a href="https://github.com/KeshavKandoi/KeshavKandoi/graphs/traffic" title="Official unique visitors to this repository, last 14 days">
-  <img src="./traffic-unique.svg" alt="Unique repository visitors in the last 14 days" />
+<a href="https://github.com/KeshavKandoi/KeshavKandoi/graphs/traffic" title="Unique visitors to this repository over the last 14 days">
+  <img src="./traffic-unique.svg" alt="Unique repository visitors, rolling 14-day count" />
 </a>
 
 <h1>👋 Hi, I'm Keshav Kandoi</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=740&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Backend+%26+Full+Stack+Developer;Building+AI+Agents+%26+LLM+Systems" alt="Software Engineer, AI and Machine Learning Engineer, Backend and Full Stack Developer" />
+<strong>Software Engineer · AI Systems · Backend Development</strong>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=610&lines=Building+AI+Agents+%26+Memory+Systems;Engineering+RAG+%26+Hybrid+Retrieval;Automating+Workflows+with+AI;Building+Practical+Developer+Tools" alt="Building AI agents, RAG systems, and developer tools" />
+</p>
 
 <p>
   <a href="https://keshavkandoi.me"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -14,17 +18,52 @@
   <a href="mailto:kandoikeshav2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<sub>AI agents &nbsp;•&nbsp; Retrieval systems &nbsp;•&nbsp; Backend engineering &nbsp;•&nbsp; Secure automation</sub>
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a software engineer focused on **AI agents, LLM applications, and scalable backend systems**. I build practical products that combine intelligent workflows with reliable APIs, data infrastructure, and full-stack experiences.
+I build **AI agents, retrieval infrastructure, and scalable backend systems**. My work spans long-term memory for AI agents, security auditing through MCP, and workflow automation with LLMs.
 
-My recent work includes persistent memory for AI agents, MCP-based security auditing, and AI-assisted workflow automation.
+I enjoy designing reliable APIs, asynchronous processing pipelines, and full-stack products that turn AI ideas into working software.
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+  <h3>🧠 MeMorae</h3>
+  <p>Persistent memory for AI agents using hybrid retrieval, knowledge graphs, and asynchronous ingestion.</p>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+    <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square" alt="OpenSearch" />
+    <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+  </p>
+</td>
+<td width="33%" valign="top">
+  <h3>🛡️ <a href="https://github.com/KeshavKandoi/CodeSentinel">CodeSentinel</a></h3>
+  <p>Local MCP security auditor with rule-based scanning, permission-controlled fixes, and independent retesting.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/MCP-24292e?style=flat-square" alt="MCP" />
+    <img src="https://img.shields.io/badge/Security-E34F26?style=flat-square" alt="Security" />
+  </p>
+</td>
+<td width="33%" valign="top">
+  <h3>⚡ <a href="https://github.com/KeshavKandoi/AI-AUTOMATION">WorkForge</a></h3>
+  <p>AI-assisted workflow automation integrating GitHub, Gmail, Calendar, and Discord with LangGraph.</p>
+  <p>
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" alt="Gemini" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  </p>
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -126,38 +165,3 @@ My recent work includes persistent memory for AI agents, MCP-based security audi
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
 </p>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-  <h3>🧠 MeMorae</h3>
-  <p>Persistent memory for AI agents with hybrid retrieval, knowledge graphs, and asynchronous processing.</p>
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
-    <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square" alt="OpenSearch" />
-    <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-  </p>
-</td>
-<td width="33%" valign="top">
-  <h3>🛡️ <a href="https://github.com/KeshavKandoi/CodeSentinel">CodeSentinel</a></h3>
-  <p>MCP-based security auditing with static analysis, controlled remediation, and independent retesting.</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/MCP-24292e?style=flat-square" alt="MCP" />
-    <img src="https://img.shields.io/badge/Security-E34F26?style=flat-square" alt="Security" />
-  </p>
-</td>
-<td width="33%" valign="top">
-  <h3>⚡ <a href="https://github.com/KeshavKandoi/AI-AUTOMATION">WorkForge</a></h3>
-  <p>AI workflow automation connecting GitHub, Gmail, Calendar, and Discord with intelligent orchestration.</p>
-  <p>
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" alt="Gemini" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  </p>
-</td>
-</tr>
-</table>
