@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/KeshavKandoi/KeshavKandoi/graphs/traffic" title="Unique visitors to this repository over the last 14 days">
-  <img src="./visitor-count.svg" alt="Unique repository visitors, rolling 14-day count" />
+  <img src="./visitors-mini.svg" alt="Unique repository visitors, rolling 14-day count" />
 </a>
 
 <h1>👋 Hi, I'm Keshav Kandoi</h1>
@@ -33,9 +33,10 @@ I enjoy designing reliable APIs, asynchronous processing pipelines, and full-sta
 <table>
 <tr>
 <td width="33%" valign="top">
-  <h3>🧠 MeMorae</h3>
+  <h3>🧠 <a href="https://memorae.tech">MeMorae</a></h3>
   <p>Persistent memory for AI agents using hybrid retrieval, knowledge graphs, and asynchronous ingestion.</p>
   <p>
+    <a href="https://memorae.tech"><img src="https://img.shields.io/badge/Website-24292e?style=flat-square&logo=googlechrome&logoColor=white" alt="MeMorae website" /></a>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
     <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
     <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square" alt="OpenSearch" />
@@ -52,9 +53,10 @@ I enjoy designing reliable APIs, asynchronous processing pipelines, and full-sta
   </p>
 </td>
 <td width="33%" valign="top">
-  <h3>⚡ <a href="https://github.com/KeshavKandoi/AI-AUTOMATION">WorkForge</a></h3>
+  <h3>⚡ <a href="https://workforge.tech">WorkForge</a></h3>
   <p>AI-assisted workflow automation integrating GitHub, Gmail, Calendar, and Discord with LangGraph.</p>
   <p>
+    <a href="https://workforge.tech"><img src="https://img.shields.io/badge/Website-24292e?style=flat-square&logo=googlechrome&logoColor=white" alt="WorkForge website" /></a>
     <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
     <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" alt="Gemini" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
