@@ -1,10 +1,11 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Keshav Kandoi
-
-<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&label=PROFILE+VIEWS&color=24292e&style=for-the-badge" alt="Profile Views" />
 
 <br>
+
+# 👋 Hi, I'm Keshav Kandoi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+AI+Agents+%26+LLM+Systems" alt="Typing SVG" />
 
@@ -27,6 +28,7 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 ## 🛠️ Tech Stack
 
 **Languages**
+
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,6 +40,7 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 </p>
 
 **AI / Machine Learning / LLMs**
+
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -53,9 +56,12 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Vector_Search-6C3AC5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hybrid_Retrieval-6C3AC5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-6C3AC5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Attention_Mechanisms-EE4C2C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Beam_Search-EE4C2C?style=for-the-badge" />
 </p>
 
 **Frontend**
+
 <p>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -68,6 +74,7 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 </p>
 
 **Backend & APIs**
+
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -80,9 +87,13 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/APScheduler-3776AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multer-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CORS-007ACC?style=for-the-badge" />
 </p>
 
 **Databases, Search & ORMs**
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -91,9 +102,13 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-6C3AC5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
 **Tools & Engineering**
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -102,6 +117,7 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AST_Analysis-6C3AC5?style=for-the-badge" />
@@ -118,7 +134,7 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 
 ### MeMorae
 
-Persistent memory infrastructure for AI agents with hybrid retrieval, memory extraction, and asynchronous processing.
+Persistent memory infrastructure for AI agents with hybrid retrieval, memory extraction, knowledge graphs, and asynchronous processing.
 
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square" />
@@ -130,7 +146,7 @@ Persistent memory infrastructure for AI agents with hybrid retrieval, memory ext
 
 ### [CodeSentinel](https://github.com/KeshavKandoi/CodeSentinel)
 
-MCP-powered security auditor with static vulnerability checks, controlled remediation, and independent verification.
+MCP-powered security auditor with static vulnerability detection, controlled remediation, and independent verification.
 
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-MCP-222222?style=flat-square" />
@@ -141,7 +157,7 @@ MCP-powered security auditor with static vulnerability checks, controlled remedi
 
 ### [WorkForge](https://github.com/KeshavKandoi/AI-AUTOMATION)
 
-AI workflow automation platform integrating GitHub, Gmail, Calendar, and Discord with intelligent orchestration.
+AI workflow automation platform integrating GitHub, Gmail, Calendar, and Discord with intelligent task orchestration.
 
 <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square" />
@@ -150,14 +166,3 @@ AI workflow automation platform integrating GitHub, Gmail, Calendar, and Discord
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keshavkandoi.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavkandoi/)
-
-</div>
