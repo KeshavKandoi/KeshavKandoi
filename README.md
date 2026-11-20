@@ -1,29 +1,30 @@
-
 <div align="center">
 
-<img src="./traffic-unique.svg" alt="Unique visitors to this repository in the last 14 days" />
+<a href="https://github.com/KeshavKandoi/KeshavKandoi/graphs/traffic" title="Official unique visitors to this repository, last 14 days">
+  <img src="./traffic-unique.svg" alt="Unique repository visitors in the last 14 days" />
+</a>
 
-<br>
+<h1>👋 Hi, I'm Keshav Kandoi</h1>
 
-# 👋 Hi, I'm Keshav Kandoi
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=740&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Backend+%26+Full+Stack+Developer;Building+AI+Agents+%26+LLM+Systems" alt="Software Engineer, AI and Machine Learning Engineer, Backend and Full Stack Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+AI+Agents+%26+LLM+Systems" alt="Typing SVG" />
+<p>
+  <a href="https://keshavkandoi.me"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/keshavkandoi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kandoikeshav2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavkandoi/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandoikeshav2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keshavkandoi.me)
+<sub>AI agents &nbsp;•&nbsp; Retrieval systems &nbsp;•&nbsp; Backend engineering &nbsp;•&nbsp; Secure automation</sub>
 
 </div>
 
-<br>
+---
 
 ## 🧑‍💻 About Me
 
-I'm a Software Developer and AI enthusiast passionate about building intelligent systems and scalable applications.
+I'm a software engineer focused on **AI agents, LLM applications, and scalable backend systems**. I build practical products that combine intelligent workflows with reliable APIs, data infrastructure, and full-stack experiences.
 
-My work focuses on **AI Agents, LLMs, RAG, Machine Learning, Backend Engineering, and Full-Stack Development**. I enjoy building end-to-end solutions, from designing APIs and distributed systems to implementing AI models, memory infrastructure, and automation workflows.
-
-Currently, I'm exploring advanced AI architectures, system design, and efficient backend infrastructure while strengthening my problem-solving skills through Data Structures & Algorithms.
+My recent work includes persistent memory for AI agents, MCP-based security auditing, and AI-assisted workflow automation.
 
 ## 🛠️ Tech Stack
 
@@ -60,19 +61,6 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Beam_Search-EE4C2C?style=for-the-badge" />
 </p>
 
-**Frontend**
-
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
 **Backend & APIs**
 
 <p>
@@ -107,6 +95,19 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
 **Tools & Engineering**
 
 <p>
@@ -131,38 +132,32 @@ Currently, I'm exploring advanced AI architectures, system design, and efficient
 <table>
 <tr>
 <td width="33%" valign="top">
-
-### MeMorae
-
-Persistent memory infrastructure for AI agents with hybrid retrieval, memory extraction, knowledge graphs, and asynchronous processing.
-
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square" />
-<img src="https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square" />
-
+  <h3>🧠 MeMorae</h3>
+  <p>Persistent memory for AI agents with hybrid retrieval, knowledge graphs, and asynchronous processing.</p>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+    <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square" alt="OpenSearch" />
+    <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+  </p>
 </td>
 <td width="33%" valign="top">
-
-### [CodeSentinel](https://github.com/KeshavKandoi/CodeSentinel)
-
-MCP-powered security auditor with static vulnerability detection, controlled remediation, and independent verification.
-
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-MCP-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/-Security-E34F26?style=flat-square" />
-
+  <h3>🛡️ <a href="https://github.com/KeshavKandoi/CodeSentinel">CodeSentinel</a></h3>
+  <p>MCP-based security auditing with static analysis, controlled remediation, and independent retesting.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/MCP-24292e?style=flat-square" alt="MCP" />
+    <img src="https://img.shields.io/badge/Security-E34F26?style=flat-square" alt="Security" />
+  </p>
 </td>
 <td width="33%" valign="top">
-
-### [WorkForge](https://github.com/KeshavKandoi/AI-AUTOMATION)
-
-AI workflow automation platform integrating GitHub, Gmail, Calendar, and Discord with intelligent task orchestration.
-
-<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
+  <h3>⚡ <a href="https://github.com/KeshavKandoi/AI-AUTOMATION">WorkForge</a></h3>
+  <p>AI workflow automation connecting GitHub, Gmail, Calendar, and Discord with intelligent orchestration.</p>
+  <p>
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" alt="Gemini" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  </p>
 </td>
 </tr>
 </table>
