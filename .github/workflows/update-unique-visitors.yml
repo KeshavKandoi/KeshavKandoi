@@ -2,6 +2,8 @@ name: Update unique repository visitors
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * *"
 
 permissions:
   contents: write
