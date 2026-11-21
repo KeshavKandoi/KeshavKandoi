@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KeshavKandoi&amp;label=VISITORS&amp;color=24292e&amp;style=flat-square" alt="Approximate GitHub profile and README views" />
+<a href="https://github.com/KeshavKandoi/KeshavKandoi/graphs/traffic" title="Unique visitors to the profile repository over the previous 14 days">
+  <img src="./visitors-mini.svg" alt="Unique visitors to this repository over the previous 14 days" />
+</a>
 
 <h1>👋 Hi, I'm Keshav Kandoi</h1>
 
